@@ -14,9 +14,9 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
   
- - script: echo About to sleep
- displayName: 'Sleep warning'
+- script: echo About to sleep
+  displayName: 'Sleep warning'
  
- - script: sleep 30
- displayName: 'Sleep'
+- script: sleep 30
+  displayName: 'Sleep'
  
