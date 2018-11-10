@@ -17,6 +17,6 @@ steps:
 - script: echo About to sleep
   displayName: 'Sleep warning'
  
-- script: sleep 30
+- powershell: Start-Sleep 30
   displayName: 'Sleep'
- 
+  
