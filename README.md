@@ -2,5 +2,4 @@
 
 Whatever I'm testing
 
-More info
-Fix typo
+Picture an amazing feature here
