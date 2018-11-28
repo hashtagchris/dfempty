@@ -2,4 +2,4 @@
 
 Whatever I'm testing
 
-Picture an amazing feature here
+Picture an amazing feature here - and no typos!
