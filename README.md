@@ -7,3 +7,5 @@ Another awesome feature
 
 Test email address mapping
 Do it again
+
+Change 1
