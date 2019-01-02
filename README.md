@@ -7,9 +7,3 @@ Another awesome feature
 
 Test email address mapping
 Do it again
-
-This change will have no commit message
-cmdline 
-cmdline 
-cmdline 
-cmdline 
