@@ -7,4 +7,4 @@ Another awesome feature
 
 Test email address mapping
 Do it again
-CI Test 4
+CI Test 5
