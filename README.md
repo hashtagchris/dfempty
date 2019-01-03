@@ -8,3 +8,4 @@ Another awesome feature
 Test email address mapping
 Do it again
 CI Test 22
+cmdline 
