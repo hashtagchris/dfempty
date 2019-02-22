@@ -34,3 +34,4 @@ cmdline
 cmdline  
 cmdline-empty
 cmdline
+cmdline-wipeme
