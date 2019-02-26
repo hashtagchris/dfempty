@@ -1,3 +1,3 @@
 # dfempty - Right to master
 
-cmdline - empty
+cmdline - old build or error condition
