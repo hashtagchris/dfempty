@@ -7,7 +7,7 @@ trigger:
 - master
 
 variables:
-  group: yamlOnly
+  group: YamlOnly
 
 pool: Default
 
