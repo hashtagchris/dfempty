@@ -7,7 +7,7 @@ trigger:
 - master
 
 variables:
-  group: my-var-group
+- group: my-var-group
 
 pool: Default
 
