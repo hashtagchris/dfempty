@@ -6,13 +6,10 @@
 trigger:
 - master
 
-variables:
-- group: my-var-group
-
 pool: Default
 
 steps:
-- script: echo $(name)
+- script: echo "Hello World"
   displayName: 'Run a one-line script'
 
 - script: |
